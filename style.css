@@ -127,3 +127,30 @@ text-align: center;
 margin: 10px 100px 10px 250px;;
 }
 
+.float1 {
+    float: left;
+    display: block;
+
+
+}
+
+.float2{
+    float: right;
+    display: block;
+
+}
+
+.foot1 {
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    padding: 14px 16px;
+}
+
+footer {
+    background-color:#F2F2F2 ;
+    height: 30px;
+    margin-bottom: 0;
+    margin-top: 38vh;
+}
